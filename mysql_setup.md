@@ -26,6 +26,10 @@ SHOW DATABASES;
 SELECT User FROM mysql.user;
 
 
+
+####completed mysql installation data if you need backup we can follow these 
+
+
 4️⃣ Take a Database Backup
 To create a backup of the database:
 
