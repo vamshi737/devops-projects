@@ -64,3 +64,14 @@ git push origin master
 ✔️ Database Backup Taken (xpensepro_db_backup.sql)
 ✔️ Backup Transferred to Local Machine
 ✔️ Backup Pushed to GitHub
+
+Save and Commit the Documentation
+Once you've added this content in VS Code, save the file (Ctrl + S) and commit it to GitHub:
+
+bash
+Copy
+Edit
+cd /c/devops-project
+git add mysql_setup.md
+git commit -m "Added MySQL setup documentation"
+git push origin master
